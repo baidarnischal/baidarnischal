@@ -5,13 +5,11 @@
 
 
 
-- 🌱 Currently Learning **| AI, HPC and Quantum Computing |**
+- 🌱 Currently Learning **| AI, and ML |**
 
 - 👨‍💻 My portfolio [https://nischalbaidar.com.np/](https://nischalbaidar.com.np/)
 
 - 📲 Documenting my journey on Instagram of coding and learning with 2000+ people around the globe [@nischalcodesandlifts](https://www.instagram.com/nischalcodesandlifts/)
-
-- 💬 Ask me about **Machine Learning, Quantum Computing, Django, Web Development, Python and Fitness**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +27,6 @@
         <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
         <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
         <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
 
 <li><h4 align="left">Frontend Development:</h4></li>
@@ -44,9 +41,6 @@
 <li><h4 align="left">DevOps:</h4> </li>
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
-<li><h4 align="left">Software:</h4> </li>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
  <li><h4 align="left">Other:</h4> </li>
      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
